@@ -1,6 +1,7 @@
 [
     {
         "nombre": "Ayudantías",
+        "descripcion": "[IIC2764] Conocimiento, Cultura y Tecnología, [ING2030] Investigación, Innovación y Emprendimiento, [IDI2015] Antro-Diseño, [IDI1015] Pensamiento Visual y [ING1004] Desafíos de la Ingeniería",
         "fecha": "2019-Presente",
         "signo": "academia",
         "foto": "https://github.com/user-attachments/assets/c5fcec36-0838-4db5-8213-d66ead46b41b",
@@ -9,6 +10,7 @@
     },
     {
         "nombre": "Pasantía The Bridge",
+        "descripcion": "Durante enero y febrero 2022 estuve en una pasantía para aprender de emprendimientos e innovación en Silicon Valley, San Francisco, para potenciar mi cuenta de libros @pauli_lectora. En esta pude ver de primera mano las nuevas tecnologías y entender el ecosistema del emprendimiento, hablar directamente con CEO y CTO de startups nacientes, además de inversionistas. También asistí de oyente a clases en Stanford, sobre negocios y la influencia de redes sociales, lo que me sirvió en mi cuenta de Instagram.",
         "fecha": "2022",
         "signo": "emprendimiento",
         "foto": "https://github.com/user-attachments/assets/b0a68d71-0048-406b-a39b-6456c1f02d8d",
@@ -17,6 +19,7 @@
     },
     {
         "nombre": "pauli_lectora",
+        "descripcion": "Este proyecto ha sido de iniciativa propia por mi amor a los libros y querer compartir mis lecturas. Es un perfil de Instagram en el cual hago reseñas de libros tanto en post como reels, combinando diversos recursos gráficos.",
         "fecha": "2021-Presente",
         "signo": "emprendimiento",
         "foto": "https://github.com/user-attachments/assets/cee2a340-61eb-42df-a4c1-54b551aeb4fb",
@@ -25,6 +28,7 @@
     },
     {
         "nombre": "Afiche Tipografías",
+        "descripcion": "Es un afiche inspirado en la tipografía Zapfino y Sinter, mostrando la contraposición entre el movimiento y la estática, mezclando ambas en una sola persona danzando.",
         "fecha": "2024-2",
         "signo": "editorial",
         "foto": "https://github.com/user-attachments/assets/c3defd7d-c879-4197-9e6e-1b11f84137fd",
@@ -33,6 +37,7 @@
     },
     {
         "nombre": "Reinterpretación: Canción Sin Miedo",
+        "descripcion":"Libro que reinterpreta la Canción Sin Miedo de Vivir Quintana, mezclando diversos recursos gráficos.",
         "fecha": "2024-2",
         "signo": "editorial",
         "foto": "https://github.com/user-attachments/assets/e1e63718-1e60-4e00-953b-6e208e64f91c",
@@ -41,6 +46,7 @@
     },
     {
         "nombre": "Menstruación Digna",
+        "descripcion": "Producto que contiene todo lo necesario para personas menstruantes en situación de calle, se trabajó con Hogar de Cristo.",
         "fecha": "2024-1",
         "signo": "producto",
         "foto": "https://github.com/user-attachments/assets/8ee2589d-998e-4280-8739-99bbab31a67c",
@@ -49,6 +55,7 @@
     },
     {
         "nombre": "Las Aventuras de Huesitos",
+        "descripcion": "Libro dedicado a niños que quieran aprender sobre el Cementerio General y su cultura popoular.",
         "fecha": "2024-1",
         "signo": "editorial",
         "foto": "https://github.com/user-attachments/assets/82b4c273-bd10-48b9-a68f-3423c879acba",
@@ -57,6 +64,7 @@
     },
     {
         "nombre": "Book",
+        "descripcion": "Bitácora personal de Taller IV",
         "fecha": "2024-1",
         "signo": "editorial",
         "foto": "https://github.com/user-attachments/assets/f2f40f9b-f746-4bf0-8af3-d6a39bd41461",
@@ -65,6 +73,7 @@
     },
     {
         "nombre": "GO",
+        "descripcion": "Producto tipo semáforo que alerta a ciclistas cuando hay un peatón en la ciclovía para disminuir la velocidad en las curvas del cerro san cristóbal",
         "fecha": "2023-2",
         "signo": "producto",
         "foto": "https://github.com/user-attachments/assets/ab3afeb1-4f3e-4f99-baf4-f9f15395daee",
@@ -73,6 +82,7 @@
     },
     {
         "nombre": "Valador CNC",
+        "descripcion": "Velador hecho con máquina CNC, no lleva ningún aparato para apernar.",
         "fecha": "2023-1",
         "signo": "producto",
         "foto": "https://github.com/user-attachments/assets/64c7cf94-3a7e-4c73-9aad-9c9f98fda0b5",
@@ -81,6 +91,7 @@
     },
     {
         "nombre": "Consultoría: Saco de Boxeo, Everlast",
+        "descripcion": "Máquina compresora de sacos de box, que presinde de fuerza bruta.",
         "fecha": "2022-1",
         "signo": "producto",
         "foto": "https://github.com/user-attachments/assets/288cdc07-6d9c-4df8-949f-3e1ac9ed4d16",
@@ -89,6 +100,7 @@
     },
     {
         "nombre": "Consultoría: Digitalización Municipalidad de Macul",
+        "descripcion":"Investigación cualitativa en conjunto con la municipalidad de macul, llegando a oportunidades de innovación.",
         "fecha": "2020-2",
         "signo": "editorial",
         "foto": "https://github.com/user-attachments/assets/6ed7f116-22ce-44e4-a328-cbc5d4936ce1",
