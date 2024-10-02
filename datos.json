@@ -2,72 +2,72 @@
     {
         "nombre": "Ayudantías",
         "fecha": "2019-Presente",
-        "signo": "Academia",
+        "signo": "academia",
         "foto": "https://github.com/user-attachments/assets/b2df2d59-d73b-4d26-97aa-03969f9b5217",
         "github": "https://github.com/marrieta1"
     },
     {
         "nombre": "Pasantía The Bridge",
         "fecha": "2022",
-        "signo": "Emprendimiento",
-        "foto": "https://picsum.photos/id/357/300/300",
+        "signo": "emprendimiento",
+        "foto": "https://github.com/user-attachments/assets/5b41ed88-0f44-4d32-a143-41a1f9307046",
         "github": "https://github.com/dyubow"
     },
     {
         "nombre": "pauli_lectora",
         "fecha": "2021-Presente",
-        "signo": "Emprendimiento",
-        "foto": "https://picsum.photos/id/444/300/300",
+        "signo": "emprendimiento",
+        "foto": "https://github.com/user-attachments/assets/deb0d8ef-7e89-4b44-868a-9d7a20e168d7",
         "github": "https://github.com/ljubedsacalderon"
     },
     {
-        "nombre": "Book",
-        "fecha": "2024-1",
-        "signo": "Editorial",
-        "foto": "https://picsum.photos/id/403/300/300",
+        "nombre": "Reinterpretación: Canción Sin Miedo",
+        "fecha": "2024-2",
+        "signo": "editorial",
+        "foto": "https://github.com/user-attachments/assets/794da6b7-2108-47f9-b080-05150abfd3d4",
         "github": "https://github.com/angelafernandezs"
     },
     {
         "nombre": "Menstruación Digna",
         "fecha": "2024-1",
-        "signo": "Producto",
-        "foto": "https://picsum.photos/id/429/300/300",
+        "signo": "producto",
+        "foto": "https://github.com/user-attachments/assets/ef8aabf0-26f2-459f-a3bd-bec9d076be2e",
         "github": "https://github.com/saragubbins"
     },
     {
         "nombre": "Las Aventuras de Huesitos",
         "fecha": "2024-1",
-        "signo": "Editorial",
-        "foto": "https://picsum.photos/id/311/300/300",
+        "signo": "editorial",
+        "foto": "https://github.com/user-attachments/assets/9ec5ee95-3f3e-4785-a8ff-8c885f23a9b0",
         "github": "https://github.com/terila"
     },
     {
-        "nombre": "Canción Sin Miedo",
-        "fecha": "2024-2",
-        "signo": "Editorial",
-        "foto": "https://picsum.photos/id/445/300/300",
+        "nombre": "Book",
+        "fecha": "2024-1",
+        "signo": "editorial",
+        "foto": "https://github.com/user-attachments/assets/b7baaceb-345b-4ad4-85d4-ad47c00e06eb",
         "github": "https://github.com/franirribarrat"
-    },
-    {
-        "nombre": "Consultoría: Digitalización Municipalidad de Macul",
-        "fecha": "2020-2",
-        "signo": "Editorial",
-        "foto": "https://picsum.photos/id/367/300/300",
-        "github": "https://github.com/conyln"
-    },
-    {
-        "nombre": "Consultoría: Saco de Boxeo, Everlast",
-        "fecha": "2022-1",
-        "signo": "Producto",
-        "foto": "https://picsum.photos/id/326/300/300",
-        "github": "https://github.com/nandaamc"
     },
     {
         "nombre": "GO",
         "fecha": "2023-2",
-        "signo": "Producto",
-        "foto": "https://picsum.photos/id/529/300/300",
+        "signo": "producto",
+        "foto": "https://github.com/user-attachments/assets/957c853e-bd3d-4edc-9820-02676ab65396",
         "github": "https://github.com/kimccartney"
+    },
+    {
+        "nombre": "Consultoría: Saco de Boxeo, Everlast",
+        "fecha": "2022-1",
+        "signo": "producto",
+        "foto": "https://github.com/user-attachments/assets/6f9ffeeb-f533-49e7-be24-c4e301bcfbfc",
+        "github": "https://github.com/nandaamc"
+    },
+    {
+        "nombre": "Consultoría: Digitalización Municipalidad de Macul",
+        "fecha": "2020-2",
+        "signo": "editorial",
+        "foto": "https://github.com/user-attachments/assets/c97a98f3-b087-4610-9b1c-10c9795a206e",
+        "github": "https://github.com/conyln"
     }
-    
+
 ]
