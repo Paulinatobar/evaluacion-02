@@ -26,11 +26,12 @@
         <script>
             //unas variables que no varían, que son constantes:
 
-            const nombre = "NOMBRE APELLIDO";
+            const nombre = "Paulina Tobar Albornoz";
 
             const autoria = document.querySelector("h1");
 
             autoria.innerHTML = nombre;
+            autoria.classList.add("nombre-querys");
 
             const principal = document.querySelector("main");
 
@@ -39,7 +40,7 @@
             //acá voy por el JSON
 
             async function astros() {
-                const consulta = await fetch("https://raw.githubusercontent.com/profesorfaco/dno096-2024/refs/heads/main/clase-09/datos.json");
+                const consulta = await fetch("https://raw.githubusercontent.com/Paulinatobar/evaluacion-02/refs/heads/main/datos.json");
                 const data = await consulta.json();
                 console.log(data);
 

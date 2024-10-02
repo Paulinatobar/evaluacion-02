@@ -140,4 +140,23 @@ main > div > p{
     display: none;
 }
 
+/* Media querys del nombre */
+.nombre-querys {
+    transition: font-size 0.3s ease;
+}
+  
+/* Estilos específicos para cada orientación */
+@media screen and (orientation: landscape) {
+    .nombre-querys {
+        font-size: 3rem; /* Ajusta el tamaño según sea necesario */
+        white-space: nowrap; /* Fuerza el texto a estar en una sola línea */
+    }
+}
 
+@media screen and (orientation: portrait) {
+    .nombre-querys {
+        font-size: 2rem; /* Ajusta el tamaño según sea necesario */
+        white-space: normal; /* Permite que el texto se divida en dos líneas */
+    }
+}
+  
