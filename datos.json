@@ -1,0 +1,73 @@
+[
+    {
+        "nombre": "Ayudantías",
+        "fecha": "2019-Presente",
+        "signo": "Academia",
+        "foto": "https://github.com/user-attachments/assets/b2df2d59-d73b-4d26-97aa-03969f9b5217",
+        "github": "https://github.com/marrieta1"
+    },
+    {
+        "nombre": "Pasantía The Bridge",
+        "fecha": "2022",
+        "signo": "Emprendimiento",
+        "foto": "https://picsum.photos/id/357/300/300",
+        "github": "https://github.com/dyubow"
+    },
+    {
+        "nombre": "pauli_lectora",
+        "fecha": "2021-Presente",
+        "signo": "Emprendimiento",
+        "foto": "https://picsum.photos/id/444/300/300",
+        "github": "https://github.com/ljubedsacalderon"
+    },
+    {
+        "nombre": "Book",
+        "fecha": "2024-1",
+        "signo": "Editorial",
+        "foto": "https://picsum.photos/id/403/300/300",
+        "github": "https://github.com/angelafernandezs"
+    },
+    {
+        "nombre": "Menstruación Digna",
+        "fecha": "2024-1",
+        "signo": "Producto",
+        "foto": "https://picsum.photos/id/429/300/300",
+        "github": "https://github.com/saragubbins"
+    },
+    {
+        "nombre": "Las Aventuras de Huesitos",
+        "fecha": "2024-1",
+        "signo": "Editorial",
+        "foto": "https://picsum.photos/id/311/300/300",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Canción Sin Miedo",
+        "fecha": "2024-2",
+        "signo": "Editorial",
+        "foto": "https://picsum.photos/id/445/300/300",
+        "github": "https://github.com/franirribarrat"
+    },
+    {
+        "nombre": "Consultoría: Digitalización Municipalidad de Macul",
+        "fecha": "2020-2",
+        "signo": "Editorial",
+        "foto": "https://picsum.photos/id/367/300/300",
+        "github": "https://github.com/conyln"
+    },
+    {
+        "nombre": "Consultoría: Saco de Boxeo, Everlast",
+        "fecha": "2022-1",
+        "signo": "Producto",
+        "foto": "https://picsum.photos/id/326/300/300",
+        "github": "https://github.com/nandaamc"
+    },
+    {
+        "nombre": "GO",
+        "fecha": "2023-2",
+        "signo": "Producto",
+        "foto": "https://picsum.photos/id/529/300/300",
+        "github": "https://github.com/kimccartney"
+    }
+    
+]
